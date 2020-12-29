@@ -54,6 +54,9 @@ Query outputs
 ## SQL CLONE TABLE
 #### Table `sales.order_items`
 ![image](https://user-images.githubusercontent.com/73097784/103214521-979dad00-494b-11eb-8e34-8010628d1334.png)
+## SQL STORED PROCEDURE
+#### Table `production.products`
+![image](https://user-images.githubusercontent.com/73097784/103252723-ee8d9b80-49b8-11eb-9d5d-f62add780b55.png)
 ## SQL NOT IN
 #### Table `sales.customers`
 ![image](https://user-images.githubusercontent.com/73097784/103214537-a2584200-494b-11eb-80d9-c57552a3faab.png)
